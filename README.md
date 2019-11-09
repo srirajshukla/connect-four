@@ -7,3 +7,5 @@ Connect 4 dots of the same color either horizontally, vertically, diagonally or 
 
 The player who first connects 4 dots wins the game.
 
+
+Game exits 4 seconds after declaring the winner.
